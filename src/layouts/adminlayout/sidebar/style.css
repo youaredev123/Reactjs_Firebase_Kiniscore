@@ -1,0 +1,29 @@
+.toolbar {
+    color: #fff;
+    background-color: #fff !important;
+}
+
+.itemClick {
+    border-left: 5px solid;
+    color: #a3a0fb;
+}
+.MuiTypography-body1 {
+    font-size: 13px !important;
+}
+.listitemText {
+  font-size: '13px';
+  color: #f4f4f6
+}
+.MuiInput-underline:before { 
+    width: 105px !important;
+    border: none !important;
+}
+.MuiSelect-select.MuiSelect-select {
+    width: 105px !important;
+}
+.gameButton:hover {
+    box-shadow: none !important;
+}
+.itemColor {
+    color: #f4f6f8 !important
+}

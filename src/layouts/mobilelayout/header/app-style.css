@@ -1,0 +1,8 @@
+.MuiAppBar-colorPrimary {
+    color: #0a0a0a !important;
+    background-color: #aece86 !important;
+}
+.MuiBottomNavigationAction-root.Mui-selected {
+    color: #aece86 !important;
+    padding-top: 6px;
+}

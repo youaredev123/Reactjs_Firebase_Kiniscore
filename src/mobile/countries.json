@@ -1,0 +1,3947 @@
+[
+  
+  {
+    "code2": "AX",
+    "code3": "ALA",
+    "name": "Åland Islands",
+    "capital": "Mariehamn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "states": []
+  },
+  {
+    "code2": "DZ",
+    "code3": "DZA",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "states": [
+      {
+        "code": "01",
+        "name": "Adrar",
+        "subdivision": null
+      },
+      {
+        "code": "16",
+        "name": "Alger",
+        "subdivision": null
+      },
+      {
+        "code": "23",
+        "name": "Annaba",
+        "subdivision": null
+      },
+      {
+        "code": "44",
+        "name": "Aïn Defla",
+        "subdivision": null
+      },
+      {
+        "code": "46",
+        "name": "Aïn Témouchent",
+        "subdivision": null
+      },
+      {
+        "code": "05",
+        "name": "Batna",
+        "subdivision": null
+      },
+      {
+        "code": "07",
+        "name": "Biskra",
+        "subdivision": null
+      },
+      {
+        "code": "09",
+        "name": "Blida",
+        "subdivision": null
+      },
+      {
+        "code": "34",
+        "name": "Bordj Bou Arréridj",
+        "subdivision": null
+      },
+      {
+        "code": "10",
+        "name": "Bouira",
+        "subdivision": null
+      },
+      {
+        "code": "35",
+        "name": "Boumerdès",
+        "subdivision": null
+      },
+      {
+        "code": "08",
+        "name": "Béchar",
+        "subdivision": null
+      },
+      {
+        "code": "06",
+        "name": "Béjaïa",
+        "subdivision": null
+      },
+      {
+        "code": "02",
+        "name": "Chlef",
+        "subdivision": null
+      },
+      {
+        "code": "25",
+        "name": "Constantine",
+        "subdivision": null
+      },
+      {
+        "code": "17",
+        "name": "Djelfa",
+        "subdivision": null
+      },
+      {
+        "code": "32",
+        "name": "El Bayadh",
+        "subdivision": null
+      },
+      {
+        "code": "39",
+        "name": "El Oued",
+        "subdivision": null
+      },
+      {
+        "code": "36",
+        "name": "El Tarf",
+        "subdivision": null
+      },
+      {
+        "code": "47",
+        "name": "Ghardaïa",
+        "subdivision": null
+      },
+      {
+        "code": "24",
+        "name": "Guelma",
+        "subdivision": null
+      },
+      {
+        "code": "33",
+        "name": "Illizi",
+        "subdivision": null
+      },
+      {
+        "code": "18",
+        "name": "Jijel",
+        "subdivision": null
+      },
+      {
+        "code": "40",
+        "name": "Khenchela",
+        "subdivision": null
+      },
+      {
+        "code": "03",
+        "name": "Laghouat",
+        "subdivision": null
+      },
+      {
+        "code": "29",
+        "name": "Mascara",
+        "subdivision": null
+      },
+      {
+        "code": "43",
+        "name": "Mila",
+        "subdivision": null
+      },
+      {
+        "code": "27",
+        "name": "Mostaganem",
+        "subdivision": null
+      },
+      {
+        "code": "28",
+        "name": "Msila",
+        "subdivision": null
+      },
+      {
+        "code": "26",
+        "name": "Médéa",
+        "subdivision": null
+      },
+      {
+        "code": "45",
+        "name": "Naama",
+        "subdivision": null
+      },
+      {
+        "code": "31",
+        "name": "Oran",
+        "subdivision": null
+      },
+      {
+        "code": "30",
+        "name": "Ouargla",
+        "subdivision": null
+      },
+      {
+        "code": "04",
+        "name": "Oum el Bouaghi",
+        "subdivision": null
+      },
+      {
+        "code": "48",
+        "name": "Relizane",
+        "subdivision": null
+      },
+      {
+        "code": "20",
+        "name": "Saïda",
+        "subdivision": null
+      },
+      {
+        "code": "22",
+        "name": "Sidi Bel Abbès",
+        "subdivision": null
+      },
+      {
+        "code": "21",
+        "name": "Skikda",
+        "subdivision": null
+      },
+      {
+        "code": "41",
+        "name": "Souk Ahras",
+        "subdivision": null
+      },
+      {
+        "code": "19",
+        "name": "Sétif",
+        "subdivision": null
+      },
+      {
+        "code": "11",
+        "name": "Tamanghasset",
+        "subdivision": null
+      },
+      {
+        "code": "14",
+        "name": "Tiaret",
+        "subdivision": null
+      },
+      {
+        "code": "37",
+        "name": "Tindouf",
+        "subdivision": null
+      },
+      {
+        "code": "42",
+        "name": "Tipaza",
+        "subdivision": null
+      },
+      {
+        "code": "38",
+        "name": "Tissemsilt",
+        "subdivision": null
+      },
+      {
+        "code": "15",
+        "name": "Tizi Ouzou",
+        "subdivision": null
+      },
+      {
+        "code": "13",
+        "name": "Tlemcen",
+        "subdivision": null
+      },
+      {
+        "code": "12",
+        "name": "Tébessa",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "AO",
+    "code3": "AGO",
+    "name": "Angola",
+    "capital": "Luanda",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "states": [
+      {
+        "code": "BGO",
+        "name": "Bengo",
+        "subdivision": null
+      },
+      {
+        "code": "BGU",
+        "name": "Benguela",
+        "subdivision": null
+      },
+      {
+        "code": "BIE",
+        "name": "Bié",
+        "subdivision": null
+      },
+      {
+        "code": "CAB",
+        "name": "Cabinda",
+        "subdivision": null
+      },
+      {
+        "code": "CNN",
+        "name": "Cunene",
+        "subdivision": null
+      },
+      {
+        "code": "HUA",
+        "name": "Huambo",
+        "subdivision": null
+      },
+      {
+        "code": "HUI",
+        "name": "Huíla",
+        "subdivision": null
+      },
+      {
+        "code": "CCU",
+        "name": "Kuando Kubango",
+        "subdivision": null
+      },
+      {
+        "code": "CNO",
+        "name": "Kwanza Norte",
+        "subdivision": null
+      },
+      {
+        "code": "CUS",
+        "name": "Kwanza Sul",
+        "subdivision": null
+      },
+      {
+        "code": "LUA",
+        "name": "Luanda",
+        "subdivision": null
+      },
+      {
+        "code": "LNO",
+        "name": "Lunda Norte",
+        "subdivision": null
+      },
+      {
+        "code": "LSU",
+        "name": "Lunda Sul",
+        "subdivision": null
+      },
+      {
+        "code": "MAL",
+        "name": "Malange",
+        "subdivision": null
+      },
+      {
+        "code": "MOX",
+        "name": "Moxico",
+        "subdivision": null
+      },
+      {
+        "code": "NAM",
+        "name": "Namibe",
+        "subdivision": null
+      },
+      {
+        "code": "UIG",
+        "name": "Uíge",
+        "subdivision": null
+      },
+      {
+        "code": "ZAI",
+        "name": "Zaire",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "BJ",
+    "code3": "BEN",
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "AL",
+        "name": "Alibori",
+        "subdivision": null
+      },
+      {
+        "code": "AK",
+        "name": "Atakora",
+        "subdivision": null
+      },
+      {
+        "code": "AQ",
+        "name": "Atlantique",
+        "subdivision": null
+      },
+      {
+        "code": "BO",
+        "name": "Borgou",
+        "subdivision": null
+      },
+      {
+        "code": "CO",
+        "name": "Collines",
+        "subdivision": null
+      },
+      {
+        "code": "DO",
+        "name": "Donga",
+        "subdivision": null
+      },
+      {
+        "code": "KO",
+        "name": "Kouffo",
+        "subdivision": null
+      },
+      {
+        "code": "LI",
+        "name": "Littoral",
+        "subdivision": null
+      },
+      {
+        "code": "MO",
+        "name": "Mono",
+        "subdivision": null
+      },
+      {
+        "code": "OU",
+        "name": "Ouémé",
+        "subdivision": null
+      },
+      {
+        "code": "PL",
+        "name": "Plateau",
+        "subdivision": null
+      },
+      {
+        "code": "ZO",
+        "name": "Zou",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "BW",
+    "code3": "BWA",
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "states": [
+      {
+        "code": "CE",
+        "name": "Central",
+        "subdivision": null
+      },
+      {
+        "code": "CH",
+        "name": "Chobe",
+        "subdivision": null
+      },
+      {
+        "code": "FR",
+        "name": "Francistown",
+        "subdivision": null
+      },
+      {
+        "code": "GA",
+        "name": "Gaborone",
+        "subdivision": null
+      },
+      {
+        "code": "GH",
+        "name": "Ghanzi",
+        "subdivision": null
+      },
+      {
+        "code": "JW",
+        "name": "Jwaneng",
+        "subdivision": null
+      },
+      {
+        "code": "KG",
+        "name": "Kgalagadi",
+        "subdivision": null
+      },
+      {
+        "code": "KL",
+        "name": "Kgatleng",
+        "subdivision": null
+      },
+      {
+        "code": "KW",
+        "name": "Kweneng",
+        "subdivision": null
+      },
+      {
+        "code": "LO",
+        "name": "Lobatse",
+        "subdivision": null
+      },
+      {
+        "code": "NE",
+        "name": "North-East",
+        "subdivision": null
+      },
+      {
+        "code": "NW",
+        "name": "North-West",
+        "subdivision": null
+      },
+      {
+        "code": "SP",
+        "name": "Selibe Phikwe",
+        "subdivision": null
+      },
+      {
+        "code": "SE",
+        "name": "South-East",
+        "subdivision": null
+      },
+      {
+        "code": "SO",
+        "name": "Southern",
+        "subdivision": null
+      },
+      {
+        "code": "ST",
+        "name": "Sowa Town",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "IO",
+    "code3": "IOT",
+    "name": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": []
+  },
+  {
+    "code2": "BF",
+    "code3": "BFA",
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "01",
+        "name": "Boucle du Mouhoun",
+        "subdivision": null
+      },
+      {
+        "code": "02",
+        "name": "Cascades",
+        "subdivision": null
+      },
+      {
+        "code": "03",
+        "name": "Centre",
+        "subdivision": null
+      },
+      {
+        "code": "04",
+        "name": "Centre-Est",
+        "subdivision": null
+      },
+      {
+        "code": "05",
+        "name": "Centre-Nord",
+        "subdivision": null
+      },
+      {
+        "code": "06",
+        "name": "Centre-Ouest",
+        "subdivision": null
+      },
+      {
+        "code": "07",
+        "name": "Centre-Sud",
+        "subdivision": null
+      },
+      {
+        "code": "08",
+        "name": "Est",
+        "subdivision": null
+      },
+      {
+        "code": "09",
+        "name": "Hauts-Bassins",
+        "subdivision": null
+      },
+      {
+        "code": "10",
+        "name": "Nord",
+        "subdivision": null
+      },
+      {
+        "code": "11",
+        "name": "Plateau-Central",
+        "subdivision": null
+      },
+      {
+        "code": "12",
+        "name": "Sahel",
+        "subdivision": null
+      },
+      {
+        "code": "13",
+        "name": "Sud-Ouest",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "BI",
+    "code3": "BDI",
+    "name": "Burundi",
+    "capital": "Bujumbura",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "BB",
+        "name": "Bubanza",
+        "subdivision": null
+      },
+      {
+        "code": "BM",
+        "name": "Bujumbura Mairie",
+        "subdivision": null
+      },
+      {
+        "code": "BL",
+        "name": "Bujumbura Rural",
+        "subdivision": null
+      },
+      {
+        "code": "BR",
+        "name": "Bururi",
+        "subdivision": null
+      },
+      {
+        "code": "CA",
+        "name": "Cankuzo",
+        "subdivision": null
+      },
+      {
+        "code": "CI",
+        "name": "Cibitoke",
+        "subdivision": null
+      },
+      {
+        "code": "GI",
+        "name": "Gitega",
+        "subdivision": null
+      },
+      {
+        "code": "KR",
+        "name": "Karuzi",
+        "subdivision": null
+      },
+      {
+        "code": "KY",
+        "name": "Kayanza",
+        "subdivision": null
+      },
+      {
+        "code": "KI",
+        "name": "Kirundo",
+        "subdivision": null
+      },
+      {
+        "code": "MA",
+        "name": "Makamba",
+        "subdivision": null
+      },
+      {
+        "code": "MU",
+        "name": "Muramvya",
+        "subdivision": null
+      },
+      {
+        "code": "MY",
+        "name": "Muyinga",
+        "subdivision": null
+      },
+      {
+        "code": "MW",
+        "name": "Mwaro",
+        "subdivision": null
+      },
+      {
+        "code": "NG",
+        "name": "Ngozi",
+        "subdivision": null
+      },
+      {
+        "code": "RT",
+        "name": "Rutana",
+        "subdivision": null
+      },
+      {
+        "code": "RY",
+        "name": "Ruyigi",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "CM",
+    "code3": "CMR",
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "states": [
+      {
+        "code": "AD",
+        "name": "Adamaoua",
+        "subdivision": null
+      },
+      {
+        "code": "CE",
+        "name": "Centre",
+        "subdivision": null
+      },
+      {
+        "code": "ES",
+        "name": "East",
+        "subdivision": null
+      },
+      {
+        "code": "EN",
+        "name": "Far North",
+        "subdivision": null
+      },
+      {
+        "code": "LT",
+        "name": "Littoral",
+        "subdivision": null
+      },
+      {
+        "code": "NO",
+        "name": "North",
+        "subdivision": null
+      },
+      {
+        "code": "NW",
+        "name": "North-West",
+        "subdivision": null
+      },
+      {
+        "code": "SU",
+        "name": "South",
+        "subdivision": null
+      },
+      {
+        "code": "SW",
+        "name": "South-West",
+        "subdivision": null
+      },
+      {
+        "code": "OU",
+        "name": "West",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "CV",
+    "code3": "CPV",
+    "name": "Cape Verde",
+    "capital": "Praia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "B",
+        "name": "Ilhas de Barlavento",
+        "subdivision": null
+      },
+      {
+        "code": "S",
+        "name": "Ilhas de Sotavento",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "CF",
+    "code3": "CAF",
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "states": [
+      {
+        "code": "BB",
+        "name": "Bamingui-Bangoran",
+        "subdivision": null
+      },
+      {
+        "code": "BGF",
+        "name": "Bangui",
+        "subdivision": null
+      },
+      {
+        "code": "BK",
+        "name": "Basse-Kotto",
+        "subdivision": null
+      },
+      {
+        "code": "KB",
+        "name": "Gribingui",
+        "subdivision": null
+      },
+      {
+        "code": "HM",
+        "name": "Haut-Mbomou",
+        "subdivision": null
+      },
+      {
+        "code": "HK",
+        "name": "Haute-Kotto",
+        "subdivision": null
+      },
+      {
+        "code": "HS",
+        "name": "Haute-Sangha / Mambéré-Kadéï",
+        "subdivision": null
+      },
+      {
+        "code": "KG",
+        "name": "Kémo-Gribingui",
+        "subdivision": null
+      },
+      {
+        "code": "LB",
+        "name": "Lobaye",
+        "subdivision": null
+      },
+      {
+        "code": "MB",
+        "name": "Mbomou",
+        "subdivision": null
+      },
+      {
+        "code": "NM",
+        "name": "Nana-Mambéré",
+        "subdivision": null
+      },
+      {
+        "code": "MP",
+        "name": "Ombella-Mpoko",
+        "subdivision": null
+      },
+      {
+        "code": "UK",
+        "name": "Ouaka",
+        "subdivision": null
+      },
+      {
+        "code": "AC",
+        "name": "Ouham",
+        "subdivision": null
+      },
+      {
+        "code": "OP",
+        "name": "Ouham-Pendé",
+        "subdivision": null
+      },
+      {
+        "code": "SE",
+        "name": "Sangha",
+        "subdivision": null
+      },
+      {
+        "code": "VK",
+        "name": "Vakaga",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "TD",
+    "code3": "TCD",
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "states": [
+      {
+        "code": "BA",
+        "name": "Al Baṭḩah",
+        "subdivision": null
+      },
+      {
+        "code": "LC",
+        "name": "Al Buḩayrah",
+        "subdivision": null
+      },
+      {
+        "code": "BG",
+        "name": "Baḩr al Ghazāl",
+        "subdivision": null
+      },
+      {
+        "code": "BO",
+        "name": "Būrkū",
+        "subdivision": null
+      },
+      {
+        "code": "EN",
+        "name": "Innīdī",
+        "subdivision": null
+      },
+      {
+        "code": "KA",
+        "name": "Kānim",
+        "subdivision": null
+      },
+      {
+        "code": "LO",
+        "name": "Lūqūn al Gharbī",
+        "subdivision": null
+      },
+      {
+        "code": "LR",
+        "name": "Lūqūn ash Sharqī",
+        "subdivision": null
+      },
+      {
+        "code": "ND",
+        "name": "Madīnat Injamīnā",
+        "subdivision": null
+      },
+      {
+        "code": "MA",
+        "name": "Māndūl",
+        "subdivision": null
+      },
+      {
+        "code": "MO",
+        "name": "Māyū Kībbī al Gharbī",
+        "subdivision": null
+      },
+      {
+        "code": "ME",
+        "name": "Māyū Kībbī ash Sharqī",
+        "subdivision": null
+      },
+      {
+        "code": "GR",
+        "name": "Qīrā",
+        "subdivision": null
+      },
+      {
+        "code": "SA",
+        "name": "Salāmāt",
+        "subdivision": null
+      },
+      {
+        "code": "CB",
+        "name": "Shārī Bāqirmī",
+        "subdivision": null
+      },
+      {
+        "code": "MC",
+        "name": "Shārī al Awsaṭ",
+        "subdivision": null
+      },
+      {
+        "code": "SI",
+        "name": "Sīlā",
+        "subdivision": null
+      },
+      {
+        "code": "TI",
+        "name": "Tibastī",
+        "subdivision": null
+      },
+      {
+        "code": "TA",
+        "name": "Tānjilī",
+        "subdivision": null
+      },
+      {
+        "code": "OD",
+        "name": "Waddāy",
+        "subdivision": null
+      },
+      {
+        "code": "WF",
+        "name": "Wādī Fīrā",
+        "subdivision": null
+      },
+      {
+        "code": "HL",
+        "name": "Ḥajjar Lamīs",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "KM",
+    "code3": "COM",
+    "name": "Comoros",
+    "capital": "Moroni",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "A",
+        "name": "Anjouan",
+        "subdivision": null
+      },
+      {
+        "code": "G",
+        "name": "Grande Comore",
+        "subdivision": null
+      },
+      {
+        "code": "M",
+        "name": "Mohéli",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "CG",
+    "code3": "COG",
+    "name": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "states": [
+      {
+        "code": "11",
+        "name": "Bouenza",
+        "subdivision": null
+      },
+      {
+        "code": "BZV",
+        "name": "Brazzaville",
+        "subdivision": null
+      },
+      {
+        "code": "8",
+        "name": "Cuvette",
+        "subdivision": null
+      },
+      {
+        "code": "15",
+        "name": "Cuvette-Ouest",
+        "subdivision": null
+      },
+      {
+        "code": "5",
+        "name": "Kouilou",
+        "subdivision": null
+      },
+      {
+        "code": "7",
+        "name": "Likouala",
+        "subdivision": null
+      },
+      {
+        "code": "2",
+        "name": "Lékoumou",
+        "subdivision": null
+      },
+      {
+        "code": "9",
+        "name": "Niari",
+        "subdivision": null
+      },
+      {
+        "code": "14",
+        "name": "Plateaux",
+        "subdivision": null
+      },
+      {
+        "code": "16",
+        "name": "Pointe-Noire",
+        "subdivision": null
+      },
+      {
+        "code": "12",
+        "name": "Pool",
+        "subdivision": null
+      },
+      {
+        "code": "13",
+        "name": "Sangha",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "CD",
+    "code3": "COD",
+    "name": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "states": [
+      {
+        "code": "BN",
+        "name": "Bandundu",
+        "subdivision": null
+      },
+      {
+        "code": "BC",
+        "name": "Bas-Congo",
+        "subdivision": null
+      },
+      {
+        "code": "KW",
+        "name": "Kasai-Occidental",
+        "subdivision": null
+      },
+      {
+        "code": "KE",
+        "name": "Kasai-Oriental",
+        "subdivision": null
+      },
+      {
+        "code": "KA",
+        "name": "Katanga",
+        "subdivision": null
+      },
+      {
+        "code": "KN",
+        "name": "Kinshasa",
+        "subdivision": null
+      },
+      {
+        "code": "MA",
+        "name": "Maniema",
+        "subdivision": null
+      },
+      {
+        "code": "NK",
+        "name": "Nord-Kivu",
+        "subdivision": null
+      },
+      {
+        "code": "OR",
+        "name": "Orientale",
+        "subdivision": null
+      },
+      {
+        "code": "SK",
+        "name": "Sud-Kivu",
+        "subdivision": null
+      },
+      {
+        "code": "EQ",
+        "name": "Équateur",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "DJ",
+    "code3": "DJI",
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "AS",
+        "name": "Ali Sabieh",
+        "subdivision": null
+      },
+      {
+        "code": "AR",
+        "name": "Arta",
+        "subdivision": null
+      },
+      {
+        "code": "DI",
+        "name": "Dikhil",
+        "subdivision": null
+      },
+      {
+        "code": "DJ",
+        "name": "Djibouti",
+        "subdivision": null
+      },
+      {
+        "code": "OB",
+        "name": "Obock",
+        "subdivision": null
+      },
+      {
+        "code": "TA",
+        "name": "Tadjourah",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "EG",
+    "code3": "EGY",
+    "name": "Egypt",
+    "capital": "Cairo",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "states": [
+      {
+        "code": "DK",
+        "name": "Ad Daqahlīyah",
+        "subdivision": null
+      },
+      {
+        "code": "BA",
+        "name": "Al Baḩr al Aḩmar",
+        "subdivision": null
+      },
+      {
+        "code": "BH",
+        "name": "Al Buḩayrah",
+        "subdivision": null
+      },
+      {
+        "code": "FYM",
+        "name": "Al Fayyūm",
+        "subdivision": null
+      },
+      {
+        "code": "GH",
+        "name": "Al Gharbīyah",
+        "subdivision": null
+      },
+      {
+        "code": "ALX",
+        "name": "Al Iskandarīyah",
+        "subdivision": null
+      },
+      {
+        "code": "IS",
+        "name": "Al Ismāٰīlīyah",
+        "subdivision": null
+      },
+      {
+        "code": "GZ",
+        "name": "Al Jīzah",
+        "subdivision": null
+      },
+      {
+        "code": "MN",
+        "name": "Al Minyā",
+        "subdivision": null
+      },
+      {
+        "code": "MNF",
+        "name": "Al Minūfīyah",
+        "subdivision": null
+      },
+      {
+        "code": "KB",
+        "name": "Al Qalyūbīyah",
+        "subdivision": null
+      },
+      {
+        "code": "C",
+        "name": "Al Qāhirah",
+        "subdivision": null
+      },
+      {
+        "code": "LX",
+        "name": "Al Uqşur",
+        "subdivision": null
+      },
+      {
+        "code": "WAD",
+        "name": "Al Wādī al Jadīd",
+        "subdivision": null
+      },
+      {
+        "code": "SUZ",
+        "name": "As Suways",
+        "subdivision": null
+      },
+      {
+        "code": "SU",
+        "name": "As Sādis min Uktūbar",
+        "subdivision": null
+      },
+      {
+        "code": "SHR",
+        "name": "Ash Sharqīyah",
+        "subdivision": null
+      },
+      {
+        "code": "ASN",
+        "name": "Aswān",
+        "subdivision": null
+      },
+      {
+        "code": "AST",
+        "name": "Asyūţ",
+        "subdivision": null
+      },
+      {
+        "code": "BNS",
+        "name": "Banī Suwayf",
+        "subdivision": null
+      },
+      {
+        "code": "PTS",
+        "name": "Būr Saٰīd",
+        "subdivision": null
+      },
+      {
+        "code": "DT",
+        "name": "Dumyāţ",
+        "subdivision": null
+      },
+      {
+        "code": "JS",
+        "name": "Janūb Sīnā'",
+        "subdivision": null
+      },
+      {
+        "code": "KFS",
+        "name": "Kafr ash Shaykh",
+        "subdivision": null
+      },
+      {
+        "code": "MT",
+        "name": "Maţrūḩ",
+        "subdivision": null
+      },
+      {
+        "code": "KN",
+        "name": "Qinā",
+        "subdivision": null
+      },
+      {
+        "code": "SIN",
+        "name": "Shamāl Sīnā'",
+        "subdivision": null
+      },
+      {
+        "code": "SHG",
+        "name": "Sūhāj",
+        "subdivision": null
+      },
+      {
+        "code": "HU",
+        "name": "Ḩulwān",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "GQ",
+    "code3": "GNQ",
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "states": [
+      {
+        "code": "C",
+        "name": "Región Continental",
+        "subdivision": null
+      },
+      {
+        "code": "I",
+        "name": "Región Insular",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "ER",
+    "code3": "ERI",
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "MA",
+        "name": "Al Awsaţ",
+        "subdivision": null
+      },
+      {
+        "code": "DU",
+        "name": "Al Janūbĩ",
+        "subdivision": null
+      },
+      {
+        "code": "AN",
+        "name": "Ansabā",
+        "subdivision": null
+      },
+      {
+        "code": "DK",
+        "name": "Janūbī al Baḩrī al Aḩmar",
+        "subdivision": null
+      },
+      {
+        "code": "GB",
+        "name": "Qāsh-Barkah",
+        "subdivision": null
+      },
+      {
+        "code": "SK",
+        "name": "Shimālī al Baḩrī al Aḩmar",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "ET",
+    "code3": "ETH",
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "BE",
+        "name": "Bīnshangul Gumuz",
+        "subdivision": null
+      },
+      {
+        "code": "DD",
+        "name": "Dirē Dawa",
+        "subdivision": null
+      },
+      {
+        "code": "GA",
+        "name": "Gambēla Hizboch",
+        "subdivision": null
+      },
+      {
+        "code": "HA",
+        "name": "Hārerī Hizb",
+        "subdivision": null
+      },
+      {
+        "code": "OR",
+        "name": "Oromīya",
+        "subdivision": null
+      },
+      {
+        "code": "SO",
+        "name": "Sumalē",
+        "subdivision": null
+      },
+      {
+        "code": "TI",
+        "name": "Tigray",
+        "subdivision": null
+      },
+      {
+        "code": "SN",
+        "name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+        "subdivision": null
+      },
+      {
+        "code": "AA",
+        "name": "Ādīs Ābeba",
+        "subdivision": null
+      },
+      {
+        "code": "AF",
+        "name": "Āfar",
+        "subdivision": null
+      },
+      {
+        "code": "AM",
+        "name": "Āmara",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "TF",
+    "code3": "ATF",
+    "name": "French Southern and Antarctic Lands",
+    "capital": "Port-aux-Français",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "states": []
+  },
+  {
+    "code2": "GA",
+    "code3": "GAB",
+    "name": "Gabon",
+    "capital": "Libreville",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "states": [
+      {
+        "code": "1",
+        "name": "Estuaire",
+        "subdivision": null
+      },
+      {
+        "code": "2",
+        "name": "Haut-Ogooué",
+        "subdivision": null
+      },
+      {
+        "code": "3",
+        "name": "Moyen-Ogooué",
+        "subdivision": null
+      },
+      {
+        "code": "4",
+        "name": "Ngounié",
+        "subdivision": null
+      },
+      {
+        "code": "5",
+        "name": "Nyanga",
+        "subdivision": null
+      },
+      {
+        "code": "6",
+        "name": "Ogooué-Ivindo",
+        "subdivision": null
+      },
+      {
+        "code": "7",
+        "name": "Ogooué-Lolo",
+        "subdivision": null
+      },
+      {
+        "code": "8",
+        "name": "Ogooué-Maritime",
+        "subdivision": null
+      },
+      {
+        "code": "9",
+        "name": "Woleu-Ntem",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "GM",
+    "code3": "GMB",
+    "name": "The Gambia",
+    "capital": "Banjul",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "B",
+        "name": "Banjul",
+        "subdivision": null
+      },
+      {
+        "code": "M",
+        "name": "Central River",
+        "subdivision": null
+      },
+      {
+        "code": "L",
+        "name": "Lower River",
+        "subdivision": null
+      },
+      {
+        "code": "N",
+        "name": "North Bank",
+        "subdivision": null
+      },
+      {
+        "code": "U",
+        "name": "Upper River",
+        "subdivision": null
+      },
+      {
+        "code": "W",
+        "name": "Western",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "GH",
+    "code3": "GHA",
+    "name": "Ghana",
+    "capital": "Accra",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "AH",
+        "name": "Ashanti",
+        "subdivision": null
+      },
+      {
+        "code": "BA",
+        "name": "Brong-Ahafo",
+        "subdivision": null
+      },
+      {
+        "code": "CP",
+        "name": "Central",
+        "subdivision": null
+      },
+      {
+        "code": "EP",
+        "name": "Eastern",
+        "subdivision": null
+      },
+      {
+        "code": "AA",
+        "name": "Greater Accra",
+        "subdivision": null
+      },
+      {
+        "code": "NP",
+        "name": "Northern",
+        "subdivision": null
+      },
+      {
+        "code": "UE",
+        "name": "Upper East",
+        "subdivision": null
+      },
+      {
+        "code": "UW",
+        "name": "Upper West",
+        "subdivision": null
+      },
+      {
+        "code": "TV",
+        "name": "Volta",
+        "subdivision": null
+      },
+      {
+        "code": "WP",
+        "name": "Western",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "GN",
+    "code3": "GIN",
+    "name": "Guinea",
+    "capital": "Conakry",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "B",
+        "name": "Boké",
+        "subdivision": null
+      },
+      {
+        "code": "C",
+        "name": "Conakry",
+        "subdivision": null
+      },
+      {
+        "code": "F",
+        "name": "Faranah",
+        "subdivision": null
+      },
+      {
+        "code": "K",
+        "name": "Kankan",
+        "subdivision": null
+      },
+      {
+        "code": "D",
+        "name": "Kindia",
+        "subdivision": null
+      },
+      {
+        "code": "L",
+        "name": "Labé",
+        "subdivision": null
+      },
+      {
+        "code": "M",
+        "name": "Mamou",
+        "subdivision": null
+      },
+      {
+        "code": "N",
+        "name": "Nzérékoré",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "GW",
+    "code3": "GNB",
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "L",
+        "name": "Leste",
+        "subdivision": null
+      },
+      {
+        "code": "N",
+        "name": "Norte",
+        "subdivision": null
+      },
+      {
+        "code": "S",
+        "name": "Sul",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "CI",
+    "code3": "CIV",
+    "name": "Ivory Coast",
+    "capital": "Yamoussoukro",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "06",
+        "name": "18 Montagnes",
+        "subdivision": null
+      },
+      {
+        "code": "16",
+        "name": "Agnébi",
+        "subdivision": null
+      },
+      {
+        "code": "17",
+        "name": "Bafing",
+        "subdivision": null
+      },
+      {
+        "code": "09",
+        "name": "Bas-Sassandra",
+        "subdivision": null
+      },
+      {
+        "code": "10",
+        "name": "Denguélé",
+        "subdivision": null
+      },
+      {
+        "code": "18",
+        "name": "Fromager",
+        "subdivision": null
+      },
+      {
+        "code": "02",
+        "name": "Haut-Sassandra",
+        "subdivision": null
+      },
+      {
+        "code": "07",
+        "name": "Lacs",
+        "subdivision": null
+      },
+      {
+        "code": "01",
+        "name": "Lagunes",
+        "subdivision": null
+      },
+      {
+        "code": "12",
+        "name": "Marahoué",
+        "subdivision": null
+      },
+      {
+        "code": "19",
+        "name": "Moyen-Cavally",
+        "subdivision": null
+      },
+      {
+        "code": "05",
+        "name": "Moyen-Comoé",
+        "subdivision": null
+      },
+      {
+        "code": "11",
+        "name": "Nzi-Comoé",
+        "subdivision": null
+      },
+      {
+        "code": "03",
+        "name": "Savanes",
+        "subdivision": null
+      },
+      {
+        "code": "15",
+        "name": "Sud-Bandama",
+        "subdivision": null
+      },
+      {
+        "code": "13",
+        "name": "Sud-Comoé",
+        "subdivision": null
+      },
+      {
+        "code": "04",
+        "name": "Vallée du Bandama",
+        "subdivision": null
+      },
+      {
+        "code": "14",
+        "name": "Worodougou",
+        "subdivision": null
+      },
+      {
+        "code": "08",
+        "name": "Zanzan",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "KE",
+    "code3": "KEN",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "200",
+        "name": "Central",
+        "subdivision": null
+      },
+      {
+        "code": "300",
+        "name": "Coast",
+        "subdivision": null
+      },
+      {
+        "code": "400",
+        "name": "Eastern",
+        "subdivision": null
+      },
+      {
+        "code": "110",
+        "name": "Nairobi",
+        "subdivision": null
+      },
+      {
+        "code": "500",
+        "name": "North-Eastern",
+        "subdivision": null
+      },
+      {
+        "code": "600",
+        "name": "Nyanza",
+        "subdivision": null
+      },
+      {
+        "code": "700",
+        "name": "Rift Valley",
+        "subdivision": null
+      },
+      {
+        "code": "800",
+        "name": "Western",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "LS",
+    "code3": "LSO",
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "states": [
+      {
+        "code": "D",
+        "name": "Berea",
+        "subdivision": null
+      },
+      {
+        "code": "B",
+        "name": "Butha-Buthe",
+        "subdivision": null
+      },
+      {
+        "code": "C",
+        "name": "Leribe",
+        "subdivision": null
+      },
+      {
+        "code": "E",
+        "name": "Mafeteng",
+        "subdivision": null
+      },
+      {
+        "code": "A",
+        "name": "Maseru",
+        "subdivision": null
+      },
+      {
+        "code": "F",
+        "name": "Mohale's Hoek",
+        "subdivision": null
+      },
+      {
+        "code": "J",
+        "name": "Mokhotlong",
+        "subdivision": null
+      },
+      {
+        "code": "H",
+        "name": "Qacha's Nek",
+        "subdivision": null
+      },
+      {
+        "code": "G",
+        "name": "Quthing",
+        "subdivision": null
+      },
+      {
+        "code": "K",
+        "name": "Thaba-Tseka",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "LR",
+    "code3": "LBR",
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "BM",
+        "name": "Bomi",
+        "subdivision": null
+      },
+      {
+        "code": "BG",
+        "name": "Bong",
+        "subdivision": null
+      },
+      {
+        "code": "GP",
+        "name": "Gbarpolu",
+        "subdivision": null
+      },
+      {
+        "code": "GB",
+        "name": "Grand Bassa",
+        "subdivision": null
+      },
+      {
+        "code": "CM",
+        "name": "Grand Cape Mount",
+        "subdivision": null
+      },
+      {
+        "code": "GG",
+        "name": "Grand Gedeh",
+        "subdivision": null
+      },
+      {
+        "code": "GK",
+        "name": "Grand Kru",
+        "subdivision": null
+      },
+      {
+        "code": "LO",
+        "name": "Lofa",
+        "subdivision": null
+      },
+      {
+        "code": "MG",
+        "name": "Margibi",
+        "subdivision": null
+      },
+      {
+        "code": "MY",
+        "name": "Maryland",
+        "subdivision": null
+      },
+      {
+        "code": "MO",
+        "name": "Montserrado",
+        "subdivision": null
+      },
+      {
+        "code": "NI",
+        "name": "Nimba",
+        "subdivision": null
+      },
+      {
+        "code": "RG",
+        "name": "River Gee",
+        "subdivision": null
+      },
+      {
+        "code": "RI",
+        "name": "Rivercess",
+        "subdivision": null
+      },
+      {
+        "code": "SI",
+        "name": "Sinoe",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "LY",
+    "code3": "LBY",
+    "name": "Libya",
+    "capital": "Tripoli",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "states": [
+      {
+        "code": "BU",
+        "name": "Al Buţnān",
+        "subdivision": null
+      },
+      {
+        "code": "JA",
+        "name": "Al Jabal al Akhḑar",
+        "subdivision": null
+      },
+      {
+        "code": "JG",
+        "name": "Al Jabal al Gharbī",
+        "subdivision": null
+      },
+      {
+        "code": "JI",
+        "name": "Al Jifārah",
+        "subdivision": null
+      },
+      {
+        "code": "JU",
+        "name": "Al Jufrah",
+        "subdivision": null
+      },
+      {
+        "code": "KF",
+        "name": "Al Kufrah",
+        "subdivision": null
+      },
+      {
+        "code": "MJ",
+        "name": "Al Marj",
+        "subdivision": null
+      },
+      {
+        "code": "MB",
+        "name": "Al Marqab",
+        "subdivision": null
+      },
+      {
+        "code": "WA",
+        "name": "Al Wāḩāt",
+        "subdivision": null
+      },
+      {
+        "code": "NQ",
+        "name": "An Nuqaţ al Khams",
+        "subdivision": null
+      },
+      {
+        "code": "ZA",
+        "name": "Az Zāwiyah",
+        "subdivision": null
+      },
+      {
+        "code": "BA",
+        "name": "Banghāzī",
+        "subdivision": null
+      },
+      {
+        "code": "DR",
+        "name": "Darnah",
+        "subdivision": null
+      },
+      {
+        "code": "GT",
+        "name": "Ghāt",
+        "subdivision": null
+      },
+      {
+        "code": "MI",
+        "name": "Mişrātah",
+        "subdivision": null
+      },
+      {
+        "code": "MQ",
+        "name": "Murzuq",
+        "subdivision": null
+      },
+      {
+        "code": "NL",
+        "name": "Nālūt",
+        "subdivision": null
+      },
+      {
+        "code": "SB",
+        "name": "Sabhā",
+        "subdivision": null
+      },
+      {
+        "code": "SR",
+        "name": "Surt",
+        "subdivision": null
+      },
+      {
+        "code": "WD",
+        "name": "Wādī al Ḩayāt",
+        "subdivision": null
+      },
+      {
+        "code": "WS",
+        "name": "Wādī ash Shāţiʾ",
+        "subdivision": null
+      },
+      {
+        "code": "TB",
+        "name": "Ţarābulus",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "MG",
+    "code3": "MDG",
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "T",
+        "name": "Antananarivo",
+        "subdivision": null
+      },
+      {
+        "code": "D",
+        "name": "Antsiranana",
+        "subdivision": null
+      },
+      {
+        "code": "F",
+        "name": "Fianarantsoa",
+        "subdivision": null
+      },
+      {
+        "code": "M",
+        "name": "Mahajanga",
+        "subdivision": null
+      },
+      {
+        "code": "A",
+        "name": "Toamasina",
+        "subdivision": null
+      },
+      {
+        "code": "U",
+        "name": "Toliara",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "MW",
+    "code3": "MWI",
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "C",
+        "name": "Central Region",
+        "subdivision": null
+      },
+      {
+        "code": "N",
+        "name": "Northern Region",
+        "subdivision": null
+      },
+      {
+        "code": "S",
+        "name": "Southern Region",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "ML",
+    "code3": "MLI",
+    "name": "Mali",
+    "capital": "Bamako",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "BKO",
+        "name": "Bamako",
+        "subdivision": null
+      },
+      {
+        "code": "7",
+        "name": "Gao",
+        "subdivision": null
+      },
+      {
+        "code": "1",
+        "name": "Kayes",
+        "subdivision": null
+      },
+      {
+        "code": "8",
+        "name": "Kidal",
+        "subdivision": null
+      },
+      {
+        "code": "2",
+        "name": "Koulikoro",
+        "subdivision": null
+      },
+      {
+        "code": "5",
+        "name": "Mopti",
+        "subdivision": null
+      },
+      {
+        "code": "3",
+        "name": "Sikasso",
+        "subdivision": null
+      },
+      {
+        "code": "4",
+        "name": "Ségou",
+        "subdivision": null
+      },
+      {
+        "code": "6",
+        "name": "Tombouctou",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "MR",
+    "code3": "MRT",
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "07",
+        "name": "Adrar",
+        "subdivision": null
+      },
+      {
+        "code": "03",
+        "name": "Assaba",
+        "subdivision": null
+      },
+      {
+        "code": "05",
+        "name": "Brakna",
+        "subdivision": null
+      },
+      {
+        "code": "08",
+        "name": "Dakhlet Nouâdhibou",
+        "subdivision": null
+      },
+      {
+        "code": "04",
+        "name": "Gorgol",
+        "subdivision": null
+      },
+      {
+        "code": "10",
+        "name": "Guidimaka",
+        "subdivision": null
+      },
+      {
+        "code": "01",
+        "name": "Hodh ech Chargui",
+        "subdivision": null
+      },
+      {
+        "code": "02",
+        "name": "Hodh el Gharbi",
+        "subdivision": null
+      },
+      {
+        "code": "12",
+        "name": "Inchiri",
+        "subdivision": null
+      },
+      {
+        "code": "NKC",
+        "name": "Nouakchott",
+        "subdivision": null
+      },
+      {
+        "code": "09",
+        "name": "Tagant",
+        "subdivision": null
+      },
+      {
+        "code": "11",
+        "name": "Tiris Zemmour",
+        "subdivision": null
+      },
+      {
+        "code": "06",
+        "name": "Trarza",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "MU",
+    "code3": "MUS",
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "AG",
+        "name": "Agalega Islands",
+        "subdivision": null
+      },
+      {
+        "code": "BR",
+        "name": "Beau Bassin-Rose Hill",
+        "subdivision": null
+      },
+      {
+        "code": "BL",
+        "name": "Black River",
+        "subdivision": null
+      },
+      {
+        "code": "CC",
+        "name": "Cargados Carajos Shoals",
+        "subdivision": null
+      },
+      {
+        "code": "CU",
+        "name": "Curepipe",
+        "subdivision": null
+      },
+      {
+        "code": "FL",
+        "name": "Flacq",
+        "subdivision": null
+      },
+      {
+        "code": "GP",
+        "name": "Grand Port",
+        "subdivision": null
+      },
+      {
+        "code": "MO",
+        "name": "Moka",
+        "subdivision": null
+      },
+      {
+        "code": "PA",
+        "name": "Pamplemousses",
+        "subdivision": null
+      },
+      {
+        "code": "PW",
+        "name": "Plaines Wilhems",
+        "subdivision": null
+      },
+      {
+        "code": "PL",
+        "name": "Port Louis",
+        "subdivision": null
+      },
+      {
+        "code": "PU",
+        "name": "Port Louis",
+        "subdivision": null
+      },
+      {
+        "code": "QB",
+        "name": "Quatre Bornes",
+        "subdivision": null
+      },
+      {
+        "code": "RR",
+        "name": "Rivière du Rempart",
+        "subdivision": null
+      },
+      {
+        "code": "RO",
+        "name": "Rodrigues Island",
+        "subdivision": null
+      },
+      {
+        "code": "SA",
+        "name": "Savanne",
+        "subdivision": null
+      },
+      {
+        "code": "VP",
+        "name": "Vacoas-Phoenix",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "YT",
+    "code3": "MYT",
+    "name": "Mayotte",
+    "capital": "Mamoudzou",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": []
+  },
+  {
+    "code2": "MA",
+    "code3": "MAR",
+    "name": "Morocco",
+    "capital": "Rabat",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "states": [
+      {
+        "code": "09",
+        "name": "Chaouia-Ouardigha",
+        "subdivision": null
+      },
+      {
+        "code": "10",
+        "name": "Doukhala-Abda",
+        "subdivision": null
+      },
+      {
+        "code": "05",
+        "name": "Fès-Boulemane",
+        "subdivision": null
+      },
+      {
+        "code": "02",
+        "name": "Gharb-Chrarda-Beni Hssen",
+        "subdivision": null
+      },
+      {
+        "code": "08",
+        "name": "Grand Casablanca",
+        "subdivision": null
+      },
+      {
+        "code": "14",
+        "name": "Guelmim-Es Smara",
+        "subdivision": null
+      },
+      {
+        "code": "04",
+        "name": "L'Oriental",
+        "subdivision": null
+      },
+      {
+        "code": "15",
+        "name": "Laâyoune-Boujdour-Sakia el Hamra",
+        "subdivision": null
+      },
+      {
+        "code": "11",
+        "name": "Marrakech-Tensift-Al Haouz",
+        "subdivision": null
+      },
+      {
+        "code": "06",
+        "name": "Meknès-Tafilalet",
+        "subdivision": null
+      },
+      {
+        "code": "16",
+        "name": "Oued ed Dahab-Lagouira",
+        "subdivision": null
+      },
+      {
+        "code": "07",
+        "name": "Rabat-Salé-Zemmour-Zaer",
+        "subdivision": null
+      },
+      {
+        "code": "13",
+        "name": "Souss-Massa-Drâa",
+        "subdivision": null
+      },
+      {
+        "code": "12",
+        "name": "Tadla-Azilal",
+        "subdivision": null
+      },
+      {
+        "code": "01",
+        "name": "Tanger-Tétouan",
+        "subdivision": null
+      },
+      {
+        "code": "03",
+        "name": "Taza-Al Hoceima-Taounate",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "MZ",
+    "code3": "MOZ",
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "P",
+        "name": "Cabo Delgado",
+        "subdivision": null
+      },
+      {
+        "code": "G",
+        "name": "Gaza",
+        "subdivision": null
+      },
+      {
+        "code": "I",
+        "name": "Inhambane",
+        "subdivision": null
+      },
+      {
+        "code": "B",
+        "name": "Manica",
+        "subdivision": null
+      },
+      {
+        "code": "MPM",
+        "name": "Maputo",
+        "subdivision": null
+      },
+      {
+        "code": "L",
+        "name": "Maputo",
+        "subdivision": null
+      },
+      {
+        "code": "N",
+        "name": "Nampula",
+        "subdivision": null
+      },
+      {
+        "code": "A",
+        "name": "Niassa",
+        "subdivision": null
+      },
+      {
+        "code": "S",
+        "name": "Sofala",
+        "subdivision": null
+      },
+      {
+        "code": "T",
+        "name": "Tete",
+        "subdivision": null
+      },
+      {
+        "code": "Q",
+        "name": "Zambézia",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "NE",
+    "code3": "NER",
+    "name": "Niger",
+    "capital": "Niamey",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "1",
+        "name": "Agadez",
+        "subdivision": null
+      },
+      {
+        "code": "2",
+        "name": "Diffa",
+        "subdivision": null
+      },
+      {
+        "code": "3",
+        "name": "Dosso",
+        "subdivision": null
+      },
+      {
+        "code": "4",
+        "name": "Maradi",
+        "subdivision": null
+      },
+      {
+        "code": "8",
+        "name": "Niamey",
+        "subdivision": null
+      },
+      {
+        "code": "5",
+        "name": "Tahoua",
+        "subdivision": null
+      },
+      {
+        "code": "6",
+        "name": "Tillabéri",
+        "subdivision": null
+      },
+      {
+        "code": "7",
+        "name": "Zinder",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "NG",
+    "code3": "NGA",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "AB",
+        "name": "Abia",
+        "subdivision": null
+      },
+      {
+        "code": "FC",
+        "name": "Abuja Federal Capital Territory",
+        "subdivision": null
+      },
+      {
+        "code": "AD",
+        "name": "Adamawa",
+        "subdivision": null
+      },
+      {
+        "code": "AK",
+        "name": "Akwa Ibom",
+        "subdivision": null
+      },
+      {
+        "code": "AN",
+        "name": "Anambra",
+        "subdivision": null
+      },
+      {
+        "code": "BA",
+        "name": "Bauchi",
+        "subdivision": null
+      },
+      {
+        "code": "BY",
+        "name": "Bayelsa",
+        "subdivision": null
+      },
+      {
+        "code": "BE",
+        "name": "Benue",
+        "subdivision": null
+      },
+      {
+        "code": "BO",
+        "name": "Borno",
+        "subdivision": null
+      },
+      {
+        "code": "CR",
+        "name": "Cross River",
+        "subdivision": null
+      },
+      {
+        "code": "DE",
+        "name": "Delta",
+        "subdivision": null
+      },
+      {
+        "code": "EB",
+        "name": "Ebonyi",
+        "subdivision": null
+      },
+      {
+        "code": "ED",
+        "name": "Edo",
+        "subdivision": null
+      },
+      {
+        "code": "EK",
+        "name": "Ekiti",
+        "subdivision": null
+      },
+      {
+        "code": "EN",
+        "name": "Enugu",
+        "subdivision": null
+      },
+      {
+        "code": "GO",
+        "name": "Gombe",
+        "subdivision": null
+      },
+      {
+        "code": "IM",
+        "name": "Imo",
+        "subdivision": null
+      },
+      {
+        "code": "JI",
+        "name": "Jigawa",
+        "subdivision": null
+      },
+      {
+        "code": "KD",
+        "name": "Kaduna",
+        "subdivision": null
+      },
+      {
+        "code": "KN",
+        "name": "Kano",
+        "subdivision": null
+      },
+      {
+        "code": "KT",
+        "name": "Katsina",
+        "subdivision": null
+      },
+      {
+        "code": "KE",
+        "name": "Kebbi",
+        "subdivision": null
+      },
+      {
+        "code": "KO",
+        "name": "Kogi",
+        "subdivision": null
+      },
+      {
+        "code": "KW",
+        "name": "Kwara",
+        "subdivision": null
+      },
+      {
+        "code": "LA",
+        "name": "Lagos",
+        "subdivision": null
+      },
+      {
+        "code": "NA",
+        "name": "Nassarawa",
+        "subdivision": null
+      },
+      {
+        "code": "NI",
+        "name": "Niger",
+        "subdivision": null
+      },
+      {
+        "code": "OG",
+        "name": "Ogun",
+        "subdivision": null
+      },
+      {
+        "code": "ON",
+        "name": "Ondo",
+        "subdivision": null
+      },
+      {
+        "code": "OS",
+        "name": "Osun",
+        "subdivision": null
+      },
+      {
+        "code": "OY",
+        "name": "Oyo",
+        "subdivision": null
+      },
+      {
+        "code": "PL",
+        "name": "Plateau",
+        "subdivision": null
+      },
+      {
+        "code": "RI",
+        "name": "Rivers",
+        "subdivision": null
+      },
+      {
+        "code": "SO",
+        "name": "Sokoto",
+        "subdivision": null
+      },
+      {
+        "code": "TA",
+        "name": "Taraba",
+        "subdivision": null
+      },
+      {
+        "code": "YO",
+        "name": "Yobe",
+        "subdivision": null
+      },
+      {
+        "code": "ZA",
+        "name": "Zamfara",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "RE",
+    "code3": "REU",
+    "name": "Réunion",
+    "capital": "Saint-Denis",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": []
+  },
+  {
+    "code2": "RW",
+    "code3": "RWA",
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "02",
+        "name": "Est",
+        "subdivision": null
+      },
+      {
+        "code": "03",
+        "name": "Nord",
+        "subdivision": null
+      },
+      {
+        "code": "04",
+        "name": "Ouest",
+        "subdivision": null
+      },
+      {
+        "code": "05",
+        "name": "Sud",
+        "subdivision": null
+      },
+      {
+        "code": "01",
+        "name": "Ville de Kigali",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "SH",
+    "code3": "SHN",
+    "name": "Saint Helena",
+    "capital": "Jamestown",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "AC",
+        "name": "Ascension",
+        "subdivision": null
+      },
+      {
+        "code": "HL",
+        "name": "Saint Helena",
+        "subdivision": null
+      },
+      {
+        "code": "TA",
+        "name": "Tristan da Cunha",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "SN",
+    "code3": "SEN",
+    "name": "Senegal",
+    "capital": "Dakar",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "DK",
+        "name": "Dakar",
+        "subdivision": null
+      },
+      {
+        "code": "DB",
+        "name": "Diourbel",
+        "subdivision": null
+      },
+      {
+        "code": "FK",
+        "name": "Fatick",
+        "subdivision": null
+      },
+      {
+        "code": "KA",
+        "name": "Kaffrine",
+        "subdivision": null
+      },
+      {
+        "code": "KL",
+        "name": "Kaolack",
+        "subdivision": null
+      },
+      {
+        "code": "KD",
+        "name": "Kolda",
+        "subdivision": null
+      },
+      {
+        "code": "KE",
+        "name": "Kédougou",
+        "subdivision": null
+      },
+      {
+        "code": "LG",
+        "name": "Louga",
+        "subdivision": null
+      },
+      {
+        "code": "MT",
+        "name": "Matam",
+        "subdivision": null
+      },
+      {
+        "code": "SL",
+        "name": "Saint-Louis",
+        "subdivision": null
+      },
+      {
+        "code": "SE",
+        "name": "Sédhiou",
+        "subdivision": null
+      },
+      {
+        "code": "TC",
+        "name": "Tambacounda",
+        "subdivision": null
+      },
+      {
+        "code": "TH",
+        "name": "Thiès",
+        "subdivision": null
+      },
+      {
+        "code": "ZG",
+        "name": "Ziguinchor",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "SC",
+    "code3": "SYC",
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "02",
+        "name": "Anse Boileau",
+        "subdivision": null
+      },
+      {
+        "code": "03",
+        "name": "Anse Etoile",
+        "subdivision": null
+      },
+      {
+        "code": "05",
+        "name": "Anse Royale",
+        "subdivision": null
+      },
+      {
+        "code": "01",
+        "name": "Anse aux Pins",
+        "subdivision": null
+      },
+      {
+        "code": "04",
+        "name": "Au Cap",
+        "subdivision": null
+      },
+      {
+        "code": "06",
+        "name": "Baie Lazare",
+        "subdivision": null
+      },
+      {
+        "code": "07",
+        "name": "Baie Sainte Anne",
+        "subdivision": null
+      },
+      {
+        "code": "08",
+        "name": "Beau Vallon",
+        "subdivision": null
+      },
+      {
+        "code": "09",
+        "name": "Bel Air",
+        "subdivision": null
+      },
+      {
+        "code": "10",
+        "name": "Bel Ombre",
+        "subdivision": null
+      },
+      {
+        "code": "11",
+        "name": "Cascade",
+        "subdivision": null
+      },
+      {
+        "code": "16",
+        "name": "English River",
+        "subdivision": null
+      },
+      {
+        "code": "12",
+        "name": "Glacis",
+        "subdivision": null
+      },
+      {
+        "code": "13",
+        "name": "Grand Anse Mahe",
+        "subdivision": null
+      },
+      {
+        "code": "14",
+        "name": "Grand Anse Praslin",
+        "subdivision": null
+      },
+      {
+        "code": "15",
+        "name": "La Digue",
+        "subdivision": null
+      },
+      {
+        "code": "24",
+        "name": "Les Mamelles",
+        "subdivision": null
+      },
+      {
+        "code": "17",
+        "name": "Mont Buxton",
+        "subdivision": null
+      },
+      {
+        "code": "18",
+        "name": "Mont Fleuri",
+        "subdivision": null
+      },
+      {
+        "code": "19",
+        "name": "Plaisance",
+        "subdivision": null
+      },
+      {
+        "code": "20",
+        "name": "Pointe Larue",
+        "subdivision": null
+      },
+      {
+        "code": "21",
+        "name": "Port Glaud",
+        "subdivision": null
+      },
+      {
+        "code": "25",
+        "name": "Roche Caiman",
+        "subdivision": null
+      },
+      {
+        "code": "22",
+        "name": "Saint Louis",
+        "subdivision": null
+      },
+      {
+        "code": "23",
+        "name": "Takamaka",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "SL",
+    "code3": "SLE",
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "E",
+        "name": "Eastern",
+        "subdivision": null
+      },
+      {
+        "code": "N",
+        "name": "Northern",
+        "subdivision": null
+      },
+      {
+        "code": "S",
+        "name": "Southern",
+        "subdivision": null
+      },
+      {
+        "code": "W",
+        "name": "Western Area",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "SO",
+    "code3": "SOM",
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "AW",
+        "name": "Awdal",
+        "subdivision": null
+      },
+      {
+        "code": "BK",
+        "name": "Bakool",
+        "subdivision": null
+      },
+      {
+        "code": "BN",
+        "name": "Banaadir",
+        "subdivision": null
+      },
+      {
+        "code": "BR",
+        "name": "Bari",
+        "subdivision": null
+      },
+      {
+        "code": "BY",
+        "name": "Bay",
+        "subdivision": null
+      },
+      {
+        "code": "GA",
+        "name": "Galguduud",
+        "subdivision": null
+      },
+      {
+        "code": "GE",
+        "name": "Gedo",
+        "subdivision": null
+      },
+      {
+        "code": "HI",
+        "name": "Hiiraan",
+        "subdivision": null
+      },
+      {
+        "code": "JD",
+        "name": "Jubbada Dhexe",
+        "subdivision": null
+      },
+      {
+        "code": "JH",
+        "name": "Jubbada Hoose",
+        "subdivision": null
+      },
+      {
+        "code": "MU",
+        "name": "Mudug",
+        "subdivision": null
+      },
+      {
+        "code": "NU",
+        "name": "Nugaal",
+        "subdivision": null
+      },
+      {
+        "code": "SA",
+        "name": "Sanaag",
+        "subdivision": null
+      },
+      {
+        "code": "SD",
+        "name": "Shabeellaha Dhexe",
+        "subdivision": null
+      },
+      {
+        "code": "SH",
+        "name": "Shabeellaha Hoose",
+        "subdivision": null
+      },
+      {
+        "code": "SO",
+        "name": "Sool",
+        "subdivision": null
+      },
+      {
+        "code": "TO",
+        "name": "Togdheer",
+        "subdivision": null
+      },
+      {
+        "code": "WO",
+        "name": "Woqooyi Galbeed",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "ZA",
+    "code3": "ZAF",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "states": [
+      {
+        "code": "EC",
+        "name": "Eastern Cape",
+        "subdivision": null
+      },
+      {
+        "code": "FS",
+        "name": "Free State",
+        "subdivision": null
+      },
+      {
+        "code": "GT",
+        "name": "Gauteng",
+        "subdivision": null
+      },
+      {
+        "code": "NL",
+        "name": "KwaZulu-Natal",
+        "subdivision": null
+      },
+      {
+        "code": "LP",
+        "name": "Limpopo",
+        "subdivision": null
+      },
+      {
+        "code": "MP",
+        "name": "Mpumalanga",
+        "subdivision": null
+      },
+      {
+        "code": "NW",
+        "name": "North West",
+        "subdivision": null
+      },
+      {
+        "code": "NC",
+        "name": "Northern Cape",
+        "subdivision": null
+      },
+      {
+        "code": "WC",
+        "name": "Western Cape",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "SS",
+    "code3": "SSD",
+    "name": "South Sudan",
+    "capital": "Juba",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "states": [
+      {
+        "code": "EC",
+        "name": "Central Equatoria",
+        "subdivision": null
+      },
+      {
+        "code": "EE",
+        "name": "Eastern Equatoria",
+        "subdivision": null
+      },
+      {
+        "code": "JG",
+        "name": "Jonglei",
+        "subdivision": null
+      },
+      {
+        "code": "LK",
+        "name": "Lakes",
+        "subdivision": null
+      },
+      {
+        "code": "BN",
+        "name": "Northern Bahr el Ghazal",
+        "subdivision": null
+      },
+      {
+        "code": "UY",
+        "name": "Unity",
+        "subdivision": null
+      },
+      {
+        "code": "NU",
+        "name": "Upper Nile",
+        "subdivision": null
+      },
+      {
+        "code": "WR",
+        "name": "Warrap",
+        "subdivision": null
+      },
+      {
+        "code": "BW",
+        "name": "Western Bahr el Ghazal",
+        "subdivision": null
+      },
+      {
+        "code": "EW",
+        "name": "Western Equatoria",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "SD",
+    "code3": "SDN",
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "states": [
+      {
+        "code": "RS",
+        "name": "Al Baḩr al Aḩmar",
+        "subdivision": null
+      },
+      {
+        "code": "GZ",
+        "name": "Al Jazīrah",
+        "subdivision": null
+      },
+      {
+        "code": "KH",
+        "name": "Al Kharţūm",
+        "subdivision": null
+      },
+      {
+        "code": "GD",
+        "name": "Al Qaḑārif",
+        "subdivision": null
+      },
+      {
+        "code": "NR",
+        "name": "An Nīl",
+        "subdivision": null
+      },
+      {
+        "code": "NW",
+        "name": "An Nīl al Abyaḑ",
+        "subdivision": null
+      },
+      {
+        "code": "NB",
+        "name": "An Nīl al Azraq",
+        "subdivision": null
+      },
+      {
+        "code": "NO",
+        "name": "Ash Shamālīyah",
+        "subdivision": null
+      },
+      {
+        "code": "DW",
+        "name": "Gharb Dārfūr",
+        "subdivision": null
+      },
+      {
+        "code": "DS",
+        "name": "Janūb Dārfūr",
+        "subdivision": null
+      },
+      {
+        "code": "KS",
+        "name": "Janūb Kurdufān",
+        "subdivision": null
+      },
+      {
+        "code": "KA",
+        "name": "Kassalā",
+        "subdivision": null
+      },
+      {
+        "code": "DN",
+        "name": "Shamāl Dārfūr",
+        "subdivision": null
+      },
+      {
+        "code": "KN",
+        "name": "Shamāl Kurdufān",
+        "subdivision": null
+      },
+      {
+        "code": "DE",
+        "name": "Sharq Dārfūr",
+        "subdivision": null
+      },
+      {
+        "code": "SI",
+        "name": "Sinnār",
+        "subdivision": null
+      },
+      {
+        "code": "DC",
+        "name": "Zalingei",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "SZ",
+    "code3": "SWZ",
+    "name": "Swaziland",
+    "capital": "Lobamba",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "states": [
+      {
+        "code": "HH",
+        "name": "Hhohho",
+        "subdivision": null
+      },
+      {
+        "code": "LU",
+        "name": "Lubombo",
+        "subdivision": null
+      },
+      {
+        "code": "MA",
+        "name": "Manzini",
+        "subdivision": null
+      },
+      {
+        "code": "SH",
+        "name": "Shiselweni",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "TZ",
+    "code3": "TZA",
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "01",
+        "name": "Arusha",
+        "subdivision": null
+      },
+      {
+        "code": "02",
+        "name": "Dar es Salaam",
+        "subdivision": null
+      },
+      {
+        "code": "03",
+        "name": "Dodoma",
+        "subdivision": null
+      },
+      {
+        "code": "04",
+        "name": "Iringa",
+        "subdivision": null
+      },
+      {
+        "code": "05",
+        "name": "Kagera",
+        "subdivision": null
+      },
+      {
+        "code": "06",
+        "name": "Kaskazini Pemba",
+        "subdivision": null
+      },
+      {
+        "code": "07",
+        "name": "Kaskazini Unguja",
+        "subdivision": null
+      },
+      {
+        "code": "08",
+        "name": "Kigoma",
+        "subdivision": null
+      },
+      {
+        "code": "09",
+        "name": "Kilimanjaro",
+        "subdivision": null
+      },
+      {
+        "code": "10",
+        "name": "Kusini Pemba",
+        "subdivision": null
+      },
+      {
+        "code": "11",
+        "name": "Kusini Unguja",
+        "subdivision": null
+      },
+      {
+        "code": "12",
+        "name": "Lindi",
+        "subdivision": null
+      },
+      {
+        "code": "26",
+        "name": "Manyara",
+        "subdivision": null
+      },
+      {
+        "code": "13",
+        "name": "Mara",
+        "subdivision": null
+      },
+      {
+        "code": "14",
+        "name": "Mbeya",
+        "subdivision": null
+      },
+      {
+        "code": "15",
+        "name": "Mjini Magharibi",
+        "subdivision": null
+      },
+      {
+        "code": "16",
+        "name": "Morogoro",
+        "subdivision": null
+      },
+      {
+        "code": "17",
+        "name": "Mtwara",
+        "subdivision": null
+      },
+      {
+        "code": "18",
+        "name": "Mwanza",
+        "subdivision": null
+      },
+      {
+        "code": "19",
+        "name": "Pwani",
+        "subdivision": null
+      },
+      {
+        "code": "20",
+        "name": "Rukwa",
+        "subdivision": null
+      },
+      {
+        "code": "21",
+        "name": "Ruvuma",
+        "subdivision": null
+      },
+      {
+        "code": "22",
+        "name": "Shinyanga",
+        "subdivision": null
+      },
+      {
+        "code": "23",
+        "name": "Singida",
+        "subdivision": null
+      },
+      {
+        "code": "24",
+        "name": "Tabora",
+        "subdivision": null
+      },
+      {
+        "code": "25",
+        "name": "Tanga",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "TG",
+    "code3": "TGO",
+    "name": "Togo",
+    "capital": "Lomé",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "states": [
+      {
+        "code": "C",
+        "name": "Centre",
+        "subdivision": null
+      },
+      {
+        "code": "K",
+        "name": "Kara",
+        "subdivision": null
+      },
+      {
+        "code": "M",
+        "name": "Maritime",
+        "subdivision": null
+      },
+      {
+        "code": "P",
+        "name": "Plateaux",
+        "subdivision": null
+      },
+      {
+        "code": "S",
+        "name": "Savannes",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "TN",
+    "code3": "TUN",
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "states": [
+      {
+        "code": "12",
+        "name": "Ariana",
+        "subdivision": null
+      },
+      {
+        "code": "13",
+        "name": "Ben Arous",
+        "subdivision": null
+      },
+      {
+        "code": "23",
+        "name": "Bizerte",
+        "subdivision": null
+      },
+      {
+        "code": "31",
+        "name": "Béja",
+        "subdivision": null
+      },
+      {
+        "code": "81",
+        "name": "Gabès",
+        "subdivision": null
+      },
+      {
+        "code": "71",
+        "name": "Gafsa",
+        "subdivision": null
+      },
+      {
+        "code": "32",
+        "name": "Jendouba",
+        "subdivision": null
+      },
+      {
+        "code": "41",
+        "name": "Kairouan",
+        "subdivision": null
+      },
+      {
+        "code": "42",
+        "name": "Kasserine",
+        "subdivision": null
+      },
+      {
+        "code": "73",
+        "name": "Kebili",
+        "subdivision": null
+      },
+      {
+        "code": "14",
+        "name": "La Manouba",
+        "subdivision": null
+      },
+      {
+        "code": "33",
+        "name": "Le Kef",
+        "subdivision": null
+      },
+      {
+        "code": "53",
+        "name": "Mahdia",
+        "subdivision": null
+      },
+      {
+        "code": "82",
+        "name": "Medenine",
+        "subdivision": null
+      },
+      {
+        "code": "52",
+        "name": "Monastir",
+        "subdivision": null
+      },
+      {
+        "code": "21",
+        "name": "Nabeul",
+        "subdivision": null
+      },
+      {
+        "code": "61",
+        "name": "Sfax",
+        "subdivision": null
+      },
+      {
+        "code": "43",
+        "name": "Sidi Bouzid",
+        "subdivision": null
+      },
+      {
+        "code": "34",
+        "name": "Siliana",
+        "subdivision": null
+      },
+      {
+        "code": "51",
+        "name": "Sousse",
+        "subdivision": null
+      },
+      {
+        "code": "83",
+        "name": "Tataouine",
+        "subdivision": null
+      },
+      {
+        "code": "72",
+        "name": "Tozeur",
+        "subdivision": null
+      },
+      {
+        "code": "11",
+        "name": "Tunis",
+        "subdivision": null
+      },
+      {
+        "code": "22",
+        "name": "Zaghouan",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "UG",
+    "code3": "UGA",
+    "name": "Uganda",
+    "capital": "Kampala",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "C",
+        "name": "Central",
+        "subdivision": null
+      },
+      {
+        "code": "E",
+        "name": "Eastern",
+        "subdivision": null
+      },
+      {
+        "code": "N",
+        "name": "Northern",
+        "subdivision": null
+      },
+      {
+        "code": "W",
+        "name": "Western",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "EH",
+    "code3": "ESH",
+    "name": "Western Sahara",
+    "capital": "El Aaiún",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "states": []
+  },
+  {
+    "code2": "ZM",
+    "code3": "ZMB",
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "02",
+        "name": "Central",
+        "subdivision": null
+      },
+      {
+        "code": "08",
+        "name": "Copperbelt",
+        "subdivision": null
+      },
+      {
+        "code": "03",
+        "name": "Eastern",
+        "subdivision": null
+      },
+      {
+        "code": "04",
+        "name": "Luapula",
+        "subdivision": null
+      },
+      {
+        "code": "09",
+        "name": "Lusaka",
+        "subdivision": null
+      },
+      {
+        "code": "06",
+        "name": "North-Western",
+        "subdivision": null
+      },
+      {
+        "code": "05",
+        "name": "Northern",
+        "subdivision": null
+      },
+      {
+        "code": "07",
+        "name": "Southern",
+        "subdivision": null
+      },
+      {
+        "code": "01",
+        "name": "Western",
+        "subdivision": null
+      }
+    ]
+  },
+  {
+    "code2": "ZW",
+    "code3": "ZWE",
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "states": [
+      {
+        "code": "BU",
+        "name": "Bulawayo",
+        "subdivision": null
+      },
+      {
+        "code": "HA",
+        "name": "Harare",
+        "subdivision": null
+      },
+      {
+        "code": "MA",
+        "name": "Manicaland",
+        "subdivision": null
+      },
+      {
+        "code": "MC",
+        "name": "Mashonaland Central",
+        "subdivision": null
+      },
+      {
+        "code": "ME",
+        "name": "Mashonaland East",
+        "subdivision": null
+      },
+      {
+        "code": "MW",
+        "name": "Mashonaland West",
+        "subdivision": null
+      },
+      {
+        "code": "MV",
+        "name": "Masvingo",
+        "subdivision": null
+      },
+      {
+        "code": "MN",
+        "name": "Matabeleland North",
+        "subdivision": null
+      },
+      {
+        "code": "MS",
+        "name": "Matabeleland South",
+        "subdivision": null
+      },
+      {
+        "code": "MI",
+        "name": "Midlands",
+        "subdivision": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+export { default as SignIn } from './SignIn';
+export { default as SignUp } from './SignUp';
+export { default as Home } from './Home';
+export { default as GameBoard } from './GameBoard';
+export { default as GameResult } from './GameResultBoard';
+export { default as LeaderBoard } from './LeaderBoard';
+export { default as GameAds } from './GameAds';
+export { default as InviteFriend } from './InviteFriend';
+export { default as GameStep } from './GameBoard/GameStep';
+export { default as Notification } from './Notification';
+export { default as Stats } from './Stats';
+export { default as Profile } from './Profile';
